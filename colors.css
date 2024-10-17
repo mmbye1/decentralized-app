@@ -1,0 +1,12 @@
+#box{
+  background-color: goldenrod;
+  font-size: 20px;
+  font-weight: bold;
+  border: 1px solid;
+}
+#foot{
+  background-color: darkgreen;
+  border: 1px red solid;
+  font-size: 20px;
+  font-weight: bold;
+}
